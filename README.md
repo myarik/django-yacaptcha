@@ -9,7 +9,7 @@ Install
 -----
 * Install via pip::
         
-        pip install -e https://github.com/myarik/django-yacaptcha.git#egg=yacaptcha
+        pip install -e git://github.com/myarik/django-yacaptcha.git#egg=yacaptcha
 
 * You need `Obtain API key`_
 

@@ -8,6 +8,6 @@ setup(
     author = 'Yaroslav Muravsky',
     author_email = 'y@myarik.com',
     url = 'https://github.com/myarik/django-yacaptcha.git',
-    install_requires = ['django', 'requests', 'xml'],
+    install_requires = ['django', 'requests'],
     packages = ['yacaptcha', ]
 )
