@@ -9,9 +9,10 @@ Install
 -----
 * Install via pip::
         
-        pip install git://github.com/myarik//django-yacaptcha.git#egg=yacaptcha
+        pip install -e https://github.com/myarik/django-yacaptcha.git#egg=yacaptcha
 
 * You need `Obtain API key`_
+
 .. _Obtain API key: http://api.yandex.ru/cleanweb/form.xml
 
 Usage
