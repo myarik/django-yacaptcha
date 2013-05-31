@@ -1,0 +1,4 @@
+django-yacaptcha
+================
+
+Yandex Captcha
